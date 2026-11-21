@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>Walt Ludwick</title>
+		<dateModified>Sat, 21 Nov 2026 11:32:20 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="Home" type="link" url="https://ludwa6.github.io/index.md" />
+		<outline text="GitHub for Today&#x27;s Hybrid Teams" type="link" url="https://ludwa6.github.io/github-for-today-s-hybrid-teams.md" />
+		</body>
+	</opml>

@@ -1,0 +1,8 @@
+# Walt Ludwick
+
+> Reading and writing with your choice of open-standards tech. Written in Obsidian, published as Markdown and HTML.
+
+## Pages
+
+- [Home](https://ludwa6.github.io/index.md)
+- [GitHub for Today's Hybrid Teams](https://ludwa6.github.io/github-for-today-s-hybrid-teams.md): In "What Is the Terminal?" Jon Udell frames the problem that his new product Bram aims to mitigate -and does surprisingly well, considering how new it is. The terminal has become far more approachable and powerful in this age of AI agents for everyone; you can now ask, in plain…
