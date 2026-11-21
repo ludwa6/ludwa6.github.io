@@ -5,9 +5,20 @@
 		<link>https://ludwa6.github.io/</link>
 		<description>Reading and writing with your choice of open-standards tech. Written in Obsidian, published as Markdown and HTML.</description>
 		<language>en</language>
-		<lastBuildDate>Sat, 21 Nov 2026 13:32:33 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 21 Nov 2026 14:14:24 GMT</lastBuildDate>
 		<generator>md-publish</generator>
 		<docs>https://cyber.harvard.edu/rss/rss.html</docs>
+		<item>
+			<title>This site now Fediverse-enabled</title>
+			<link>https://ludwa6.github.io/this-site-now-fediverse-enabled.html</link>
+			<guid isPermaLink="true">https://ludwa6.github.io/this-site-now-fediverse-enabled.html</guid>
+			<pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+			<description>&lt;p&gt;UPDATE: thanks to fed.brid.gy , this site is now Fedivers-enabled; you can follow it via Mastodon, Bluesky, and other FediVerse-compliant clients.&lt;/p&gt;</description>
+			<source:markdown># This site now Fediverse-enabled
+
+UPDATE: thanks to fed.brid.gy , this site is now Fedivers-enabled; you can follow it via Mastodon, Bluesky, and other FediVerse-compliant clients.
+</source:markdown>
+			</item>
 		<item>
 			<title>Practical Groupware for Good Governance</title>
 			<link>https://ludwa6.github.io/practical-groupware-for-good-governance.html</link>

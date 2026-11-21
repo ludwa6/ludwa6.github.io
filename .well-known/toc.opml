@@ -2,11 +2,12 @@
 <opml version="2.0">
 	<head>
 		<title>Walt Ludwick</title>
-		<dateModified>Sat, 21 Nov 2026 13:32:33 GMT</dateModified>
+		<dateModified>Sat, 21 Nov 2026 14:14:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="Home" type="link" url="https://ludwa6.github.io/index.md" />
 		<outline text="GitHub for Today&#x27;s Hybrid Teams" type="link" url="https://ludwa6.github.io/github-for-today-s-hybrid-teams.md" />
 		<outline text="Practical Groupware for Good Governance" type="link" url="https://ludwa6.github.io/practical-groupware-for-good-governance.md" />
+		<outline text="This site now Fediverse-enabled" type="link" url="https://ludwa6.github.io/this-site-now-fediverse-enabled.md" />
 		</body>
 	</opml>

@@ -4,6 +4,7 @@ author: "Walt Ludwick"
 pubDate: "Thu, 10 Sep 2026 12:00:00 GMT"
 description: "Why does a farmer spend his evenings on GitHub? Because Good Governance needs plumbing -and this is the best we have got."
 urlPrev: "https://ludwa6.github.io/github-for-today-s-hybrid-teams.md"
+urlNext: "https://ludwa6.github.io/this-site-now-fediverse-enabled.md"
 ---
 # Practical Groupware for Good Governance
 

@@ -9,6 +9,7 @@ This is a test of the dual-mode (MarkdownWeb :: WorldWideWeb) publishing system;
 
 ## Posts
 
+* 2026-11-21: [This site now Fediverse-enabled](this-site-now-fediverse-enabled.md)
 * 2026-09-10: [Practical Groupware for Good Governance](practical-groupware-for-good-governance.md)
 * 2026-07-02: [GitHub for Today's Hybrid Teams](github-for-today-s-hybrid-teams.md)
 
