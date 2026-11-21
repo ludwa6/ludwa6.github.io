@@ -3,6 +3,7 @@ title: "GitHub for Today's Hybrid Teams"
 author: "Walt Ludwick"
 pubDate: "Thu, 02 Jul 2026 12:00:00 GMT"
 description: "In \"What Is the Terminal?\" Jon Udell frames the problem that his new product Bram aims to mitigate -and does surprisingly well, considering how new it is. The terminal has become far more approachable and powerful in this age of AI agents for everyone; you can now ask, in plain…"
+urlNext: "https://ludwa6.github.io/practical-groupware-for-good-governance.md"
 ---
 # {{page.title}}
 

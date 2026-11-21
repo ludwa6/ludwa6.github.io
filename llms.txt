@@ -5,4 +5,5 @@
 ## Pages
 
 - [Home](https://ludwa6.github.io/index.md)
+- [Practical Groupware for Good Governance](https://ludwa6.github.io/practical-groupware-for-good-governance.md): Why does a farmer spend his evenings on GitHub? Because Good Governance needs plumbing -and this is the best we have got.
 - [GitHub for Today's Hybrid Teams](https://ludwa6.github.io/github-for-today-s-hybrid-teams.md): In "What Is the Terminal?" Jon Udell frames the problem that his new product Bram aims to mitigate -and does surprisingly well, considering how new it is. The terminal has become far more approachable and powerful in this age of AI agents for everyone; you can now ask, in plain…

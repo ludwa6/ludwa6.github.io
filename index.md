@@ -5,12 +5,11 @@ description: "Reading and writing with your choice of open-standards tech. Writt
 ---
 # A different sort of web
 
-This is a test of the dual-mode (MarkdownWeb :: WorldWideWeb) publishing system; just a test, to see how it works. Real content to follow soon... But first, a link:
-
-[GitHub for Today's Hybrid Teams](github-for-today-s-hybrid-teams.md)
+This is a test of the dual-mode (MarkdownWeb :: WorldWideWeb) publishing system; just a test, to see how it works. Real content to follow soon... But first, a test of links:
 
 ## Posts
 
+* 2026-09-10: [Practical Groupware for Good Governance](practical-groupware-for-good-governance.md)
 * 2026-07-02: [GitHub for Today's Hybrid Teams](github-for-today-s-hybrid-teams.md)
 
 ## How to read this site
